@@ -1,0 +1,88 @@
+HTML, CSS {
+	
+	Google Search	
+
+*	bootstrap -> https://www.youtube.com/watch?v=-A5LxeKi3Aw
+
+}
+
+JAVASCRIPT {
+
+***	https://www.youtube.com/watch?v=Bluxbh9CaQ0&t=9717s
+
+**	https://www.freecodecamp.org/
+	
+*	https://www.w3schools.com/js/default.asp    =>	{ ***JSON, AJAX } 
+
+**	https://www.codewars.com/
+	
+*	{ **map() =>  https://www.youtube.com/watch?v=nEabP9CYCAQ }
+
+}
+
+React {
+	
+***	https://www.youtube.com/watch?v=xJZa2_aldDs&t=3296s	
+	
+}
+
+React Native {
+	
+***	https://www.youtube.com/watch?v=0-S5a0eXPoc	=> { ***ENG }
+	
+**	https://www.youtube.com/watch?v=7KwtXNoYQEY&t=1438s { RUS }
+
+
+}
+
+
+
+AKIAUC6MX4Q5UX3OOY2X
+
+3aJHjQE5G3EVu/mLmRm9k46TM0uBmOU0fc2olxHx
+
+
+
+https://bucket-sukhii.s3.website.us-east-1.amazonaws.com/index.html
+
+
+
+
+aws s3 website s3://my-bucket/ --index-document index.html --error-document error.html
+
+add =>     aws s3 cp index.html s3://name
+
+
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+https://www.npmjs.com/package/@react-google-maps/api
+https://www.npmjs.com/package/use-places-autocomplete
+https://www.npmjs.com/package/date-fns
+https://www.npmjs.com/package/use-places-autocomplete
+https://www.npmjs.com/package/@reach/combobox
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
