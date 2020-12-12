@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-const Card = ({number}) => <div className ="card bg-dark">{number}</div>
+const Card = ({number}) => <div className ="card">{number}</div>
 
 export default Card;
 

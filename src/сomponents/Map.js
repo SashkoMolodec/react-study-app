@@ -85,7 +85,7 @@ function Map() {
     return ( <div>
       
       <LoadScript googleMapsApiKey="AIzaSyAFwUpEqV2eCsWKrp5Woq0YCg_3auodBOU">
-          <h1>Google Maps API</h1>
+          {/* <h1>Google Maps API</h1> */}
   
   
   
