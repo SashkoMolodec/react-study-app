@@ -6,6 +6,9 @@ import './Card.css'
 import { Nav, Container} from "react-bootstrap";
 import {Link} from "react-router-dom";
 
+
+
+
 export function Event (){
     
 
