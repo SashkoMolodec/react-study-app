@@ -1,0 +1,42 @@
+#evtxt {
+    font-size: 15px;
+  }
+  #hd {
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    z-index: 10;
+    margin: 0;
+    padding: 0;
+    font-size: 35px;
+    font-family: bold;
+  }
+
+.search {
+    position: absolute;
+    top: 1rem;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    max-width: 400px;
+    z-index: 10;
+  }
+  
+  .search input {
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    width: 100%;
+  }
+  
+  .locate {
+    position: absolute;
+    top: 3rem;
+    right: 1rem;
+    background: none;
+    border: none;
+    z-index: 10;
+  }
+  .locate img {
+    width: 50px;
+    cursor: pointer;
+  }
